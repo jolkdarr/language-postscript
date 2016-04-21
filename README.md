@@ -1,4 +1,4 @@
-# postscript package
+# PostScript Package
 
-Support for Postscript language.
-Converted from `TextMate` bundle.
+Support for the PostScript language.
+Converted from the `TextMate` bundle.

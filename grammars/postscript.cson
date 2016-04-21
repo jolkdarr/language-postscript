@@ -3,7 +3,7 @@ fileTypes: [
     "eps"
 ]
 firstLineMatch: "^%!PS"
-name: "Postscript"
+name: "PostScript"
 patterns: [
     {
         begin: "\\("

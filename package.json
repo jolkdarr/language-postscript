@@ -1,7 +1,7 @@
 {
   "name": "language-postscript",
   "version": "0.1.0",
-  "description": "Postscript language support in Atom.",
+  "description": "PostScript language support in Atom.",
   "repository": {
     "type": "git",
     "url": "https://github.com/jolkdarr/language-postscript.git"
@@ -11,7 +11,7 @@
     "atom": ">0.50.0"
   },
   "dependencies": {},
-  "readme": "# Language support for Postscript in Atom.\n\nConverted from the [Postscript `TextMate` bundle](https://github.com/textmate/postscript.tmbundle)\n",
+  "readme": "# Language support for PostScript in Atom.\n\nConverted from the [PostScript `TextMate` bundle](https://github.com/textmate/postscript.tmbundle)\n",
   "readmeFilename": "README.md",
   "bugs": {},
   "homepage": "https://github.com/jolkdarr/language-postscript",
