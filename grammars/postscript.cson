@@ -3,6 +3,8 @@ fileTypes: [
     "eps"
 ]
 firstLineMatch: "^%!PS"
+foldingStartMarker: '\\{\\s*$'
+foldingStopMarker: '\\s*\\}'
 name: "PostScript"
 patterns: [
     {
