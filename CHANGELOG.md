@@ -5,5 +5,5 @@
 * Plugin name fixed in package.json.
 
 ## 0.2.0 - New Release
-* PostScript mispelling fiwed [John Gardner].
+* PostScript mispelling fixed [John Gardner].
 * Grammar minor issue fixed.
